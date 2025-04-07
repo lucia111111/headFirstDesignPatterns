@@ -1,4 +1,4 @@
-package com.chap02;
+package com.chap02.bookEx;
 
 public interface Subject {
     public void registerObserver(Observer o);
