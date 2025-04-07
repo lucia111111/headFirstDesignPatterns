@@ -1,2 +1,5 @@
-package com.chap01;public class QuackBehavior {
+package com.chap01;
+
+public interface QuackBehavior {
+    public void quack();
 }

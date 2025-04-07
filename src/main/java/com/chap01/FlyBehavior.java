@@ -1,2 +1,5 @@
-package com.chap01;public class FlyBehavior {
+package com.chap01;
+
+public interface FlyBehavior {
+    public void fly();
 }
