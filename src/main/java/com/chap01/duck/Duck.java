@@ -1,4 +1,7 @@
-package com.chap01;
+package com.chap01.duck;
+
+import com.chap01.fly.FlyBehavior;
+import com.chap01.quack.QuackBehavior;
 
 public abstract class Duck {
 

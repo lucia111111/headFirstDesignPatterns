@@ -1,4 +1,4 @@
-package com.chap01;
+package com.chap01.quack;
 
 public class MuteQuack implements QuackBehavior{
     @Override

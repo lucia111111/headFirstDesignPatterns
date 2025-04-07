@@ -1,6 +1,9 @@
-package com.chap01;
+package com.chap01.duck;
 
-public class MallardDuck extends Duck{
+import com.chap01.quack.Quack;
+import com.chap01.fly.FlyWithWings;
+
+public class MallardDuck extends Duck {
 
     public MallardDuck(){
         quackBehavior = new Quack();

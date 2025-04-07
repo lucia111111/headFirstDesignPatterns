@@ -1,6 +1,6 @@
-package com.chap01;
+package com.chap01.fly;
 
-public class FlyRocketPowered implements FlyBehavior{
+public class FlyRocketPowered implements FlyBehavior {
 
     @Override
     public void fly() {

@@ -1,6 +1,6 @@
-package com.chap01;
+package com.chap01.fly;
 
-public class FlyWithWings implements FlyBehavior{
+public class FlyWithWings implements FlyBehavior {
     @Override
     public void fly() {
         System.out.println("날고 있어요!!!");

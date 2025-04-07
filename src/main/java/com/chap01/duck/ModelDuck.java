@@ -1,6 +1,9 @@
-package com.chap01;
+package com.chap01.duck;
 
-public class ModelDuck extends Duck{
+import com.chap01.quack.Quack;
+import com.chap01.fly.FlyNoWay;
+
+public class ModelDuck extends Duck {
 
     public ModelDuck(){
         flyBehavior = new FlyNoWay();
